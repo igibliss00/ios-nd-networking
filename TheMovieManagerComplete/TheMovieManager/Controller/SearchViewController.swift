@@ -25,7 +25,6 @@ class SearchViewController: UIViewController {
             detailVC.movie = movies[selectedIndex]
         }
     }
-    
 }
 
 extension SearchViewController: UISearchBarDelegate {

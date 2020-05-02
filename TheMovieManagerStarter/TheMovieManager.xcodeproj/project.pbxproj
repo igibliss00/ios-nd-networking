@@ -169,9 +169,9 @@
 			isa = PBXGroup;
 			children = (
 				2316887E2121CBC7003C820E /* MarkFavorite.swift */,
+				231688842121CBEA003C820E /* LogoutRequest.swift */,
 				231688802121CBD6003C820E /* MarkWatchlist.swift */,
 				231688822121CBE3003C820E /* LoginRequest.swift */,
-				231688842121CBEA003C820E /* LogoutRequest.swift */,
 				231688862121CBF9003C820E /* PostSession.swift */,
 			);
 			path = "TMDB Requests";

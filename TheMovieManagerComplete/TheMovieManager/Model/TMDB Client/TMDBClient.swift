@@ -1,16 +1,9 @@
-//
-//  TMDBClient.swift
-//  TheMovieManager
-//
-//  Created by Owen LaRosa on 8/13/18.
-//  Copyright © 2018 Udacity. All rights reserved.
-//
 
 import Foundation
 
 class TMDBClient {
     
-    static let apiKey = "YOUR_TMDB_API_KEY"
+    static let apiKey = "9171654c6a670148fe3b02244a723faf"
     
     struct Auth {
         static var accountId = 0
